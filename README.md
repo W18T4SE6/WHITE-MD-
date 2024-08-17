@@ -1,2 +1,2 @@
 # WHITE-MD-
-https://github.com/LT-SYAII/KaguyaBot.git
+https://github.com/WHITE-SER/WhiteBot.git
